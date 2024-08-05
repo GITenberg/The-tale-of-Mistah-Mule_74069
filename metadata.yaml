@@ -1,0 +1,44 @@
+_repo: The-tale-of-Mistah-Mule_74069
+_version: 0.0.1
+alternative_title:
+- The tale of Mister Mule
+- The tale of Mr. Mule
+contributor:
+  illustrator:
+    agent_name: Smith, Harry L. (Illustrator)
+    gutenberg_agent_id: '7268'
+    url: http://www.gutenberg.org/2009/agents/7268
+creator:
+  author:
+    agent_name: Bailey, Arthur Scott
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '1842'
+    url: http://www.gutenberg.org/2009/agents/1842
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Scott_Bailey
+description: ''
+gutenberg_issued: '2024-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74069'
+language: en
+pgterms:marc905: 20240517104345bailey
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York, NY :$bGrosset & Dunlap, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Slumber-town tales
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Racing -- Juvenile fiction'
+- !lcsh 'Mules -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The tale of Mistah Mule
+url: http://www.gutenberg.org/ebooks/74069
