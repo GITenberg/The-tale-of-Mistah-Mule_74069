@@ -8,6 +8,9 @@ contributor:
     agent_name: Smith, Harry L. (Illustrator)
     gutenberg_agent_id: '7268'
     url: http://www.gutenberg.org/2009/agents/7268
+covers:
+- cover_type: archival
+  image_path: 74069-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Bailey, Arthur Scott
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1842
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Scott_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74069#The-tale-of-Mistah-Mule
 gutenberg_issued: '2024-07-19'
 gutenberg_type: Text
 identifiers:
